@@ -19,8 +19,8 @@
   "homepage": "https://github.com/SatakeYusuke19920527/webpack-2020#readme",
   "dependencies": {
     "live-server": "^1.2.1",
-    "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.12"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   },
   "devDependencies": {
     "lodash": "^4.17.19"
